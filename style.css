@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("C:\\Users\\bhava\\OneDrive\\Desktop\\feedback\\Screenshot 2023-03-30 210911.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrap
+{
+    width: 800px;
+    height: 700px;
+    margin: 30px auto;
+}
+h1
+{
+    font-size: 70px;
+    color: black;
+    text-align: center;
+    border-bottom: 2px solid rgb(95, 95, 159);
+}
+table
+{
+    font-size: 30px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+td
+{
+    padding: 10px 20px 0px 0px;
+}
+.txt
+{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+}
+.txtarea
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 12px;
+}
+.btn
+{
+    width: 60px;
+    height: 40px;
+    border-radius: 20px;
+    display: "thankyou for your valueble feedback";
+    justify-content: center;
+}
